@@ -1,6 +1,6 @@
 const Commando = require('discord.js-commando');
 const bot = new Commando.Client();
-const TOKEN = 'process.env.TOKEN'
+const TOKEN = 'NTExMjg0NjA3ODQ5NTk0ODgw.DsorlA.9EEkOY10TD9Wpo3mNbCZPj3dj4U'
 
 bot.registry.registerGroup('simple', 'Simple');
 bot.registry.registerGroup('music', 'Music');
